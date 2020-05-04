@@ -1,0 +1,5 @@
+asd,12345,ffasdsdfsdf,1,1
+user01,12345,USUARIO,1,1
+Jimena,12345,Jimena Cruz ,0,1
+jeikan,12345,jeiks,0,1
+gerente,12345,Carlos Valladares,0,1

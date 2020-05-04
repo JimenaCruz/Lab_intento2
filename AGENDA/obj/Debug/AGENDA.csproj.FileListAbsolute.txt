@@ -1,0 +1,6 @@
+C:\Users\MAX\Desktop\AGENDA\AGENDA\bin\Debug\AGENDA.exe.config
+C:\Users\MAX\Desktop\AGENDA\AGENDA\bin\Debug\AGENDA.exe
+C:\Users\MAX\Desktop\AGENDA\AGENDA\bin\Debug\AGENDA.pdb
+C:\Users\MAX\Desktop\AGENDA\AGENDA\obj\Debug\AGENDA.exe
+C:\Users\MAX\Desktop\AGENDA\AGENDA\obj\Debug\AGENDA.pdb
+C:\Users\MAX\Desktop\AGENDA\AGENDA\obj\Debug\AGENDA.csprojAssemblyReference.cache
